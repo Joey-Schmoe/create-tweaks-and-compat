@@ -9,7 +9,7 @@
 	{
 		"Z":
 		{
-			"item": "createdeco:zinc_sheet"
+			"tag": "createdeco:internal/plates/zinc_plates"
 		},
 		"C":
 		{
